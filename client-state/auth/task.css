@@ -8,6 +8,9 @@ body {
 .signin_active {
   display: block;
 }
+.row {
+  margin-bottom: 10px;
+}
 .control {
   padding: 20px;
   border-radius: 25px;
